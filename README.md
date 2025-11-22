@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, I'm Suveera Pratapa!
+I am an ambitious Analytics professional pursuing a Master of Professional Studies in Analytics at Northeastern University (3.9/4.0). I specialize in leveraging data science, machine learning, and statistical analysis to drive business insights.
 
-<!--
-**Suvy853/Suvy853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My expertise is centered around advanced analytics and robust data engineering:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Core Skills: Proficient in Python, SQL, Power BI, and Machine Learning.
+
+
+Experience: Developed advanced Power BI solutions, optimized SQL databases with indexing, and implemented incremental loading methodologies as a Junior Data Engineer Intern.
+
+
+Projects: Applied Deep Learning (CNNs achieving over 90% accuracy) , conducted large-scale Sentiment Analysis, and built a Real-Time Face Recognition System using computer vision.
+
+
+
+I am passionate about translating complex data into actionable recommendations and am actively seeking to leverage my cross-functional business understanding in data-driven decision-making, particularly within financial services.
