@@ -6,13 +6,13 @@ My expertise is centered around advanced analytics and robust data engineering:
 
 
 
-Core Skills: Proficient in Python, SQL, Power BI, and Machine Learning.
+**Core Skills**: Proficient in Python, SQL, Power BI, and Machine Learning.
 
 
-Experience: Developed advanced Power BI solutions, optimized SQL databases with indexing, and implemented incremental loading methodologies as a Junior Data Engineer Intern.
+**Experience**: Developed advanced Power BI solutions, optimized SQL databases with indexing, and implemented incremental loading methodologies as a Junior Data Engineer Intern.
 
 
-Projects: Applied Deep Learning (CNNs achieving over 90% accuracy) , conducted large-scale Sentiment Analysis, and built a Real-Time Face Recognition System using computer vision.
+**Projects**: Applied Deep Learning (CNNs achieving over 90% accuracy) , conducted large-scale Sentiment Analysis, and built a Real-Time Face Recognition System using computer vision.
 
 
 
