@@ -1,5 +1,5 @@
 ## Hello, I'm Suveera Pratapa!
-I am an ambitious Analytics professional pursuing a Master of Professional Studies in Analytics at Northeastern University (3.9/4.0). I specialize in leveraging data science, machine learning, and statistical analysis to drive business insights.
+I am an ambitious Analytics professional pursuing a Master of Professional Studies in Analytics at Northeastern University. I specialize in leveraging data science, machine learning, and statistical analysis to drive business insights.
 
 My expertise is centered around advanced analytics and robust data engineering:
 
